@@ -8,3 +8,5 @@ Here’s what I learned while exploring Wikipedia Clickstream Data:
 * People are more curious about the 2016 presidential candidate’s personal lives than their stances.
 * Google > Facebook > Twitter for politics.
 * Neither vice president running mate is very well-known.
+
+Read my blog post for more: 

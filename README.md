@@ -9,4 +9,4 @@ Here’s what I learned while exploring Wikipedia Clickstream Data:
 * Google > Facebook > Twitter for politics.
 * Neither vice president running mate is very well-known.
 
-Read my blog post for more: 
+Read my blog post for more: http://bit.ly/wiki_election
